@@ -11,7 +11,7 @@
     <ImageButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/appEstrelaLogo"
+        android:src="@drawable/app_estrela_logo"
         android:layout_gravity="center"
         android:layout_marginTop="180dp"
         android:background="@color/corDeFundo"/>
